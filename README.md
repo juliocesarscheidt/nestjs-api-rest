@@ -60,4 +60,9 @@ nest g filter unprocessable-entity
 nest g resource stock-inputs
 nest g resource stock-outputs
 
+
+
+yarn add @nestjs/throttler --save
+
+
 ```
